@@ -1,6 +1,6 @@
 # **ARIZONA STATE UNIVERTSITY**
 
-# PLP Pojects
+# PLP Projects
 
 Author: Kenneth Galindo
 
@@ -11,4 +11,4 @@ Instructor: Christopher Mar
 
 # Purpose:
 
-This repository is created in order to demonstrate the PLP projects created for CSE 230, which includes proper and fully functional implementations as well as video deonstration of each projet. The purpose of these projects was in respect to the topics learned through that time frame, as well as utilizing the software known as **PLPTool** in order to have proper understanding for use. All demonstrations, codes, and reports have been done personally and comments found within codes are used in order to detail the process of each code more in depth.
+This repository is created in order to demonstrate the PLP projects made for CSE 230, which includes proper and fully functional implementations as well as video demonstration of each project. The purpose of these projects were made in respect to the topics learned within that time frame, as well as utilizing the software known as **PLPTool** in order to have proper understanding for use. All demonstrations, codes, and reports have been done personally and comments found within codes are used in order to detail the process of each code more in depth.
