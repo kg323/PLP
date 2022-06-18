@@ -3,7 +3,9 @@
 **Learning Objectives:** 
 
 ● Become familiar with PLPTool features 
+
 ● Use PLP arithmetic and control flow instructions 
+
 ● Write to a memory mapped I/O device 
 
 
@@ -14,8 +16,11 @@ value  to  the  LEDs  every  time  the  value  is  increased.  The  memory  addr
 below  shows  the  meaning  and  an  example  usage  of  the  instructions  covered  in  the  video,  PLP  Instructions  for 
 Project 1. 
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/98668234/174451874-d4cd7060-b4c6-4515-9648-178e1894db8d.png)
 
+<br>
 
 The  image  below  shows  the  buttons that will  allow  you  to enter  simulation mode,  view  the  LEDs,  and  run  your 
 program. Two things to keep in mind regarding simulation mode: 
