@@ -1,3 +1,11 @@
+# **ARIZONA STATE UNIVERTSITY**
+
+Author: Kenneth Galindo
+
+Instructor: Christopher Mar
+
+![image](https://user-images.githubusercontent.com/98668234/174452285-821f7e76-d440-4081-992c-758325ce9bfa.png)
+
 # **PLP Project 3: UART Palindrome Checker** 
 
 **Learning Objectives:** 
