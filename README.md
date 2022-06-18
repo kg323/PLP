@@ -1,4 +1,4 @@
-# **Arizone State university**
+# **ARIZONE STATE UNIVERTSITY**
 
 # PLP Pojects
 
