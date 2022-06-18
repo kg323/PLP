@@ -1,6 +1,6 @@
 # **ARIZONA STATE UNIVERTSITY**
 
-# PLP Projects
+# PLP Projects: Computer Organization and Assembly Language Programming 
 
 Author: Kenneth Galindo
 
